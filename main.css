@@ -1,0 +1,105 @@
+/*------------- css acceuille --------------*/
+.jumbotron-fluid
+{
+    background-image: url("image/ReDKcF3.jpg");
+    color: white;
+}
+
+.titre
+{
+    text-align: center;
+    color: rgb(91, 16, 161)
+}
+
+.jumbotron-fluid>h2
+{
+    color: gold;
+}
+
+.jumbotron-fluid>p
+{
+    margin-left: 25px;
+}
+
+.jumbotron-fluid-1
+{
+    background-color: rgb(255, 255, 255)!important;
+    padding-bottom: 20px;
+   
+    text-align: center;
+}
+
+.jumbotron-fluid-1>h1
+{
+    color: rgb(6, 6, 117)
+}
+
+.jumbotron-fluid-2
+{
+    background-color: grey
+}
+
+/*----------------css doc----------------*/
+
+.CV
+{
+    background-image: url("image/wallpaper-pattern-HD1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.titre-1>h2
+{
+    color: rgb(0, 158, 250);
+}
+
+
+
+.colonne_droite
+{
+    margin: 75px;
+    color: white
+
+} 
+
+.colonne_droite>h2
+{
+    color: rgb(0, 158, 250);
+}
+
+.titre-1
+{
+    color: white
+}
+
+
+#ING
+{
+    display:flex;
+    margin-top: 30px;
+    
+}
+
+
+#ING div
+{
+    flex:1;
+
+}
+ 
+ 
+/*-------------------------css contact ----------------------*/
+
+.contact
+{
+    background-image: url("image/sunset.jpg");
+    background-size: cover;
+}
+
+.join
+{
+    text-align: center;
+    margin: 200px;
+    color: greenyellow;
+}
